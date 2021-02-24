@@ -68,3 +68,4 @@ footer.style.maxWidth = "600px";
 footer.style.margin = "2% auto";
 footer.style.display = "flex";
 footer.style.flexWrap = "wrap";
+footer.style.justifyContent = "center";
